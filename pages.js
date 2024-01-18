@@ -7,7 +7,7 @@ SECTIONS = [
         tabs: [
             {
                 url: "https://artofproblemsolving.com/",
-                img: "/img/aops.svg"
+                img: "img/aops.svg"
             }
         ]
     },
@@ -18,7 +18,7 @@ SECTIONS = [
         tabs: [
             {
                 url: "https://wolframalpha.com",
-                img: "/img/wolfram.png"
+                img: "img/wolfram.png"
             }]
     },
     {
@@ -28,7 +28,7 @@ SECTIONS = [
         tabs: [
             {
                 url: "https://www.overleaf.com/project",
-                img: "/img/overleaf.png"
+                img: "img/overleaf.png"
             }]
     },
     {
@@ -38,7 +38,7 @@ SECTIONS = [
         tabs: [
             {
                 url: "https://www.desmos.com/c",
-                img: "/img/desmos.png"
+                img: "img/desmos.png"
             }]
     },
     {
@@ -48,7 +48,7 @@ SECTIONS = [
         tabs: [
             {
                 url: "https://www.geogebra.org/calculator",
-                img: "/img/geo.png"
+                img: "img/geo.png"
             }]
     },
     {
@@ -58,7 +58,7 @@ SECTIONS = [
         tabs: [
             {
                 url: "https://github.com",
-                img: "/img/github.png"
+                img: "img/github.png"
             }
         ]
     },
@@ -67,7 +67,7 @@ SECTIONS = [
         tabs: [
             {
                 url: "https://replit.com",
-                img: "/img/replit.png"
+                img: "img/replit.png"
             }
         ]
     },
@@ -76,7 +76,7 @@ SECTIONS = [
         tabs: [
             {
                 url: "https://mail.google.com/mail/u/1",
-                img: "/img/gmail.svg"
+                img: "img/gmail.svg"
             }
         ]
     }
